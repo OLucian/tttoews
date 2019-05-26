@@ -1,7 +1,8 @@
 # Tic Tac Toe with Webstockets
 
 Fast written version :)
-Please excuse the lack of eslint and the 4 space default vscode tabs and probably many others ( like Redux, React Router, PropTypes :) ).
+I had to do this on a Windows machine. Hope no weird stuff.
+Please excuse the lack of eslint and the 4 space default vscode tabs and probably many others ( like Redux, React Router, PropTypes :) ), time was short.
 
 >
 >Cum merge ... si ce este facut :)
