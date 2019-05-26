@@ -1,0 +1,23 @@
+.ttt-square {
+    height: 16vh;
+    width: 16vh;
+    display: flex;
+    justify-content: center;
+    border-radius: 2vh;
+    border: 0.5vh solid #CCC;
+    margin: 0.1vh;
+    cursor: pointer;
+    text-align: center;
+    line-height: 12vh;
+    font-size: 12vh;
+}
+
+.disable-select {
+    -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+       -khtml-user-select: none; /* Konqueror HTML */
+         -moz-user-select: none; /* Firefox */
+          -ms-user-select: none; /* Internet Explorer/Edge */
+              user-select: none; /* Non-prefixed version, currently
+                                    supported by Chrome and Opera */
+  }

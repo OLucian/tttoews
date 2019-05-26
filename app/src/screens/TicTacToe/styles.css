@@ -1,0 +1,16 @@
+.ttt-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ttt-line-wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.player-text {
+    font-size: 2vh;
+    color: #FFF;
+    font-weight: bold;
+}
