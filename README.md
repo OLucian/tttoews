@@ -1,4 +1,4 @@
-# Tic Tac Toe with Webstockets
+# Tic Tac Toe with WebSockets
 
 Fast written version :)
 I had to do this on a Windows machine. Hope no weird stuff.
